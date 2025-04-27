@@ -28,6 +28,13 @@ Admins have full control to add, update, remove, and view college data.
 
 ---
 
+## Future Improvements
+- Graphical User Interface (GUI)
+- Database Integration
+- Adding more functionalities like cancel Admission etc
+
+---
+
 ## How to Run
 1. **Clone the repository** or **Download the ZIP**.
 2. **Compile** all `.java` files:
