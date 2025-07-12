@@ -40,3 +40,6 @@ Admins have full control to add, update, remove, and view college data.
 2. **Compile** all `.java` files:
    ```bash
    javac *.java
+3. **Run** :
+   ```bash
+   java Run
